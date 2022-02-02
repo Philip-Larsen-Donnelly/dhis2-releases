@@ -5,11 +5,11 @@
 **Development**
 
 -   Alignment with web
-    -   [Break the glass](https://jira.dhis2.org/browse/ANDROAPP-657) { .confirmed }
-    -   Program Rule Engine (**dependency** Tracker/Backend) { .confirmed }
-    -   [Support file value type](https://jira.dhis2.org/browse/ANDROAPP-1992)
+    -  [x] [Break the glass](https://jira.dhis2.org/browse/ANDROAPP-657) { .confirmed }
+    -  [x] Program Rule Engine (**dependency** Tracker/Backend) { .confirmed }
+    -  [ ] [Support file value type](https://jira.dhis2.org/browse/ANDROAPP-1992)
 -   Stability and Performance
-    -   Automatic testing of Web API endpoints (**dependency **Tracker/Backend & QA)
+    -  [ ] Automatic testing of Web API endpoints (**dependency **Tracker/Backend & QA)
     -   Review synchronization process (**dependency **Tracker/Backend/API)
     -   [Separate offline/online search flows](https://jira.dhis2.org/browse/ANDROAPP-4023) { .confirmed }
     -   [Automatic deletion of synced data](https://jira.dhis2.org/browse/ANDROAPP-2957)
